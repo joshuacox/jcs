@@ -12,4 +12,4 @@ curl -sL https://raw.githubusercontent.com/joshuacox/Nu/refs/heads/main/bootstra
 # passgen
 curl https://raw.githubusercontent.com/joshuacox/passgen/master/bootstrappassgen.sh|sh
 # wgu
-curl -sL https://raw.githubusercontent.com/joshuacox/wgu/refs/heads/master/bootstrap.sh | bash
+curl -sL https://raw.githubusercontent.com/joshuacox/wgu/refs/heads/main/bootstrap.sh | bash

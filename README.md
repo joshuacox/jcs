@@ -2,6 +2,7 @@
 
 The J Cox Suite of utilities
 
+1. [bl](https://github.com/joshuacox/bl)
 1. [blossom](https://github.com/joshuacox/blossom)
 1. [bomsaway](https://github.com/joshuacox/bomsaway)
 1. [clip](https://github.com/joshuacox/clip)

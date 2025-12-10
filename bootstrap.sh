@@ -8,7 +8,7 @@ curl -sL https://raw.githubusercontent.com/joshuacox/bomsaway/master/bootstrapbo
 # Clip
 curl -sL https://git.io/clipinstall | bash
 # loopster
-curl -sL https://raw.githubusercontent.com/joshuacox/loopster/refs/heads/master/bootstrap.sh | bash
+curl -sL https://raw.githubusercontent.com/joshuacox/loopster/refs/heads/main/bootstrap.sh | bash
 # namgen
 curl https://raw.githubusercontent.com/joshuacox/namgen/refs/heads/main/scripts/install.sh | sh
 # Nu 

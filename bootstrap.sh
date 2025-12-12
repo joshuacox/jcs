@@ -15,6 +15,8 @@ curl https://raw.githubusercontent.com/joshuacox/namgen/refs/heads/main/scripts/
 curl -sL https://raw.githubusercontent.com/joshuacox/Nu/refs/heads/main/bootstrapNu.sh | bash
 # passgen
 curl -sL https://raw.githubusercontent.com/joshuacox/passgen/master/bootstrappassgen.sh|sh
+# randosay
+curl -sL https://raw.githubusercontent.com/joshuacox/randosay/refs/heads/main/bootstrap.sh | bash
 # roustabout
 curl -sL https://raw.githubusercontent.com/joshuacox/roustabout/refs/heads/master/bootstraproustabout.sh | bash
 # SSShutdown

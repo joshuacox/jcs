@@ -10,6 +10,7 @@ The J Cox Suite of utilities
 1. [Nu ](https://github.com/joshuacox/Nu )
 1. [namgen](https://github.com/joshuacox/namgen)
 1. [passgen](https://github.com/joshuacox/passgen)
+1. [randosay](https://github.com/joshuacox/randosay)
 1. [roustabout](https://github.com/joshuacox/roustabout)
 1. [SSShutdown](https://github.com/joshuacox/SSShutdown)
 1. [swappy](https://github.com/joshuacox/swappy)

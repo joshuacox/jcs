@@ -1,4 +1,15 @@
 #!/usr/bin/env bash
+echo 'Installing J Cox Suite of Utilities.'
+sleep 1
+check_cmd () {
+  if command -v $1 > /dev/null 2>&1; then
+  else
+    echo "$1 not installed"
+    exit 1
+  fi
+}
+check_cmd cmake
+check_cmd curl
 # bl
 curl -sL https://raw.githubusercontent.com/joshuacox/bl/refs/heads/main/bootstrap.sh | bash
 # blossom

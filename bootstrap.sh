@@ -3,6 +3,7 @@ echo 'Installing J Cox Suite of Utilities.'
 sleep 1
 check_cmd () {
   if command -v $1 > /dev/null 2>&1; then
+    echo "$1 found"
   else
     echo "$1 not installed"
     exit 1

@@ -17,6 +17,7 @@ The J Cox Suite of utilities
 1. [vv](https://github.com/joshuacox/vv)
 1. [wg-init](https://github.com/joshuacox/wg-init)
 1. [wgu](https://github.com/joshuacox/wgu)
+1. [cloner](https://github.com/joshuacox/cloner)
 
 ## Installation
 

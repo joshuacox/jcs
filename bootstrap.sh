@@ -41,3 +41,5 @@ curl -sL https://raw.githubusercontent.com/joshuacox/wg-init/main/bootstrap | sh
 curl -sL https://raw.githubusercontent.com/joshuacox/wgu/refs/heads/main/bootstrap.sh | bash
 # vv
 curl -sL https://raw.githubusercontent.com/joshuacox/vv/refs/heads/master/bootstrapvv.sh | bash
+# cloner
+curl -sL https://raw.githubusercontent.com/joshuacox/cloner/refs/heads/master/bootstrapcloner.sh | bash

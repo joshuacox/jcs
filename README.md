@@ -19,6 +19,7 @@ The J Cox Suite of utilities
 1. [wgu](https://github.com/joshuacox/wgu)
 1. [cloner](https://github.com/joshuacox/cloner)
 1. [mirror](https://github.com/joshuacox/mirror)
+1. [touchy](https://github.com/tekromancy/touchy)
 
 ## Installation
 

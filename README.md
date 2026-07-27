@@ -20,6 +20,7 @@ The J Cox Suite of utilities
 1. [cloner](https://github.com/joshuacox/cloner)
 1. [mirror](https://github.com/joshuacox/mirror)
 1. [touchy](https://github.com/tekromancy/touchy)
+1. [zz](https://codeberg.org/tekromancy/zz)
 
 ## Installation
 

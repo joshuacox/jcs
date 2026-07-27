@@ -47,3 +47,5 @@ curl -sL https://raw.githubusercontent.com/joshuacox/cloner/refs/heads/main/boot
 curl -sL https://git.io/mirrorinstall | bash
 # touchy
 curl -sL https://raw.githubusercontent.com/tekromancy/touchy/refs/heads/master/bootstrap.sh | bash
+# zz
+curl -sL https://codeberg.org/tekromancy/zz/raw/branch/main/bootstrap.sh | bash
